@@ -17,3 +17,10 @@ This AI-based system detects and tracks players, ball, and court lines in tennis
 3. import dataset from roboflow
 4. train model on Colab and place it in model folder or you can download it from other sources
 5. Run `main.py` with your video file
+
+##Reference
+also your guys can refer to this video
+https://youtu.be/L23oIHZE14w?si=ymahMe0DEszbHkR3
+
+##report
+https://drive.google.com/file/d/1b0xH7kLiZs_Jjz7ND11mNwhhgGSnOy_A/view?usp=drive_link
